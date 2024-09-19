@@ -1,7 +1,7 @@
-# Gerenciador de Tarefas
+# Novo Gerenciador de Tarefas
 
 Este projeto é um simples gerenciador de tarefas desenvolvido como parte da aula 28 - Praticando Funções e Eventos do DOM, no contexto do curso Turma Full Stack 2 (+praTi e Codifica). O objetivo do projeto é criar uma aplicação de gerenciamento de tarefas que permite ao usuário adicionar, editar, remover e filtrar tarefas.
-
+## Pagina: https://teofilonicolau.github.io/novo_gerenciador_tarefas/
 ## Descrição
 
 O gerenciador de tarefas possui as seguintes funcionalidades:
